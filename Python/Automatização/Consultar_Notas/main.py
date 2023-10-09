@@ -27,7 +27,7 @@ class CalculoNotas():
             if materia_desejada == 1:
                 print("\nNota A - Prova    | Nota F - Prova")
                 print("Nota B - Projeto    | Nota G - Projeto")
-                print("Nota B - Atividade  | Nota G - Atividade\n")
+                print("Nota C - Atividade  | Nota H - Atividade\n")
 
                 self.InputNotas()
                 
